@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. <My name is Sangyoon Lee>
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. <I have really few experience, like https and javascript>
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. <I dont have any experience in C++>
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. <I think it is really good to lear to solve computational problems these days since we all use devices>
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. <Yes, because we use our phone, computer all day these days, and Im pretty sure that we might need skill to solve computational problems.>
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. <I want to learn about like cyber security stuff>
